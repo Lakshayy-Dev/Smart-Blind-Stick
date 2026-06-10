@@ -29,6 +29,16 @@ The LIS3DH accelerometer continuously monitors acceleration and triggers a speci
 
 The LDR automatically turns on an LED in low-light environments.
 
+## Project Demonstration
+
+The system provides:
+
+- Continuous buzzer and strong vibration for very close obstacles.
+- Faster beeps and moderate vibration for nearby obstacles.
+- Slower beeps and weaker vibration for distant obstacles.
+- Automatic LED activation in dark environments.
+- Distinct buzzer alert during fall detection.
+
 ## Results
 
 - Obstacle Detection Accuracy: >95%
